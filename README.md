@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **SandeepPanday2501/SandeepPanday2501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: pandayshiroyasha@gmail.com or pandaysandeep02@gmailcom ...
 - 😄 Pronouns: ...
 - ⚡ Some of my works: https://www.youtube.com/channel/UC6dR8ijmbxdwfstgUKrtvbA Some of my shorts animations I have done ...
--->
+
